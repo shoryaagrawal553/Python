@@ -1,5 +1,5 @@
 # in python by default all the user input values are of string type
-# so we need to convert them to the required type
+# so we need to convert them to the required type 
 
 age= input("Enter your age ")
 
