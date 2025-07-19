@@ -3,7 +3,7 @@
 
 age= input("Enter your age ")
 
-# new_age= age +5  # TypeError: can only concatenate str (not "int") to str20
+# new_age= age +5  # TypeError: can only concatenate str (not "int") to str2
 
 # to convert the string to integer we can use int() function
 new_age= int(age)+5
