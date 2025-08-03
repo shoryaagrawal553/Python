@@ -1,5 +1,5 @@
 name=  "Tony Stark"
-
+ 
 # methods:- does no change to the original string/ value
 print(name.upper())  # converts to uppercase
 print(name.lower())  # converts to lowercase
@@ -22,6 +22,7 @@ print("S" in name)  # returns True
 print("s" in name)  # returns False (case-sensitive)
 print("Stark" in name)  # returns True
 print("Ironman" in name)  # returns False (not present in name)
+
 
 
 
