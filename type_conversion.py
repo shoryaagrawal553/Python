@@ -2,7 +2,7 @@
 # so we need to convert them to the required type 
  
 age= input("Enter your age ")  
-
+ 
 # new_age= age +5  # TypeError: can only concatenate str (not "int") to str2 
 
 # to convert the string to integer we can use int() function
@@ -11,6 +11,7 @@ print(new_age)
 
 # other such functions are: float(), str(), bool()
 print(float(new_age)) # converts to float
+
 
 
 
